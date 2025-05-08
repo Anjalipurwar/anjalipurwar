@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Anjali Purwar!
 
-<!--
-**Anjalipurwar/anjalipurwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my GitHub profile! I'm passionate about learning, creating, and sharing projects that blend creativity and code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 B.Tech Student | 3rd Year
+- 💡 Interested in AI, ML, Web Development & Innovation
+- 🎯 Currently working on: **Learning Path Dashboard** (SIH Project)
+- 💬 Ask me about MERN Stack, HTML/CSS, or anything tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- 💻 Languages: JavaScript, Python, C++
+- 🌐 Web: HTML, CSS, Node.js, Express.js, MongoDB
+- 🤖 AI/ML: Python (basic), working with Groq & OpenAI
+- 🎨 Tools: VS Code, Git, GitHub, Postman
+
+## 📈 GitHub Stats
+![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjalipurwar&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- 🌐 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/anjali-purwar-20b8b0309/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- ✉️ Email: gungunpurwar979@gmail.com
+
+---
+
+_“Code is not just about syntax, it's a way to bring ideas to life.”_
+
